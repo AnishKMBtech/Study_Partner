@@ -1,38 +1,30 @@
-AI Student Hackathon - Project Submission
+# Study Partner Project Documentation
 
-Welcome to the submission day of our AI Student Hackathon! 🚀
+### Team Name: LoneWolf
+### Project Name: Study Partner
+### Author: Anish K.M
 
-We’re thrilled to have you participate and can't wait to see your innovative AI apps. Please follow the instructions below to submit your project for evaluation.
+## Sections
 
-Submission Details
+### 1. Knowledge Gap Analyzer
+- **Overview**: A tool designed to identify knowledge gaps by analyzing quiz and event results.
+- **Functionality**:
+  - Input: CSV or JSON files containing quiz results.
+  - Output: Graphs and analytical reports highlighting areas for improvement.
+- **Technologies Used**: Python, Pandas, Matplotlib/Seaborn for data visualization.
 
-Submit the following information via the provided Google Form for us to access your AI applications:
+### 2. Chatbot using LangChain and GROQ
+- **Overview**: An intelligent chatbot capable of answering queries related to educational content.
+- **Functionality**:
+  - Utilizes LangChain for conversational AI.
+  - Employs GROQ for querying data efficiently.
+  - **Accuracy Measurement**: The chatbot's accuracy is assessed based on its responses to user queries.
+  - **Data Source**: Data is sourced from reliable links, such as [Wikipedia](https://www.wikipedia.org).
+- **Technologies Used**: LangChain, GROQ, Python.
 
-Team Name: Your team's unique name.
-
-App Name: The name of your AI application.
-
-App Description: A brief overview of what your app does and its core features.
-
-GitHub PR Link: The link to your Pull Request (PR) in the project repository.
-
-App Link: A link to the deployed version of your app.
-
-Loom Video: A demo video link showing your app in action.
-
-
-For detailed submission guidelines, please refer to the last doubt session recording: https://www.buildfastwithai.com/hackathon.
-
-Important Links:
-
-Google Form for Submission :- https://forms.gle/JVXGjYhxtdAhTGgm6
-
-GitHub Project Submission Link :- https://shorturl.at/zgs3m
-
-Deadline
-⏰ Submission Deadline: Tonight, 11:59 PM. Make sure all components are submitted on time to ensure your project is evaluated.
-
-Good luck, and we look forward to reviewing your amazing projects!
----
-Hackathon Organizers
-Build Fast with AI
+### 3. Flashcard Generator
+- **Overview**: A tool for creating flashcards based on study materials or quiz questions.
+- **Functionality**:
+  - Generates flashcards automatically from input data.
+  - Supports customization of flashcard content.
+- **Technologies Used**: Python, relevant libraries for flashcard creation (e.g., AnkiConnect for Anki integration).
